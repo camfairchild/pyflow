@@ -12,7 +12,7 @@ The pyflow syntax uses the keyword `to` to indicate an arrow from one element to
 Connecting elements is as simple as `elem1 to elem2`
 Which generates the following plant-this.png
 
-![example png](https://github.com/camfairchild/pyflow/blob/main/example.png?raw=true)
+![example png](https://github.com/camfairchild/pyflow/blob/main/plant-example.png?raw=true)
 
 Pyflow uses newlines to make new connections and you can only make one connection per line.
 

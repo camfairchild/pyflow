@@ -1,0 +1,5 @@
+@startuml
+agent "elem1" as elem1
+agent "elem2" as elem2
+elem1 --> elem2
+@enduml
